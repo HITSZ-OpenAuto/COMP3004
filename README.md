@@ -8,25 +8,60 @@
 5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
 -->
 
-![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
 ![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
-![跨专业选修课](https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue)
-![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
-![文理通识](https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
+![作业30%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-30%25-wheat)
+![期末考试70%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat)
 
 
-## 授课教师
+## 形式语言与自动机
 
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+本课程为 20 级必修考查课，占 2 学分。
 
-## 关于考试
+分数构成 = 30% 作业 + 70% 考试成绩。
 
-## 学习建议
+本课程在 21 级成为考试课。
+
+### 关于教师
+
+- zyf
+
+  挺好的老师，交流时感觉很亲切。
+
+- tbz
+
+- cb
+
+- lxb
+
+- ly
+
+### 关于作业
+
+作业有些班级是英文的，有些班级是中文的。
+
+中文的作业都是重要的基础题，尽量完全弄懂。
+
+英文的作业有一些十分有趣的构造和证明，网上可以搜到一些类似题目的答案。这类题目 20 级考试中并没有出现。
+
+### 关于考试
+
+考试都是基础题型，参考exam中的试卷。
+
+但考试本身难度较大，因为形式语言与自动机本身有很多巧妙的构造和分析。只掌握 PPT 上的概念和例子不太能得到很高的分数，可能还需要自己找一些常见的语言文法和自动机的转换习题。
+
+据说 20 级挂得不多，掌握基础知识就能稳过。但 21 级变成考试课后不知道会不会有变化。
+
+（20级得分排名参考：92分 rk1，82分 rk60/500）
+
+### Tips
+
+“课程是很难的课程，但是过还是比较容易的。”
+
+本课程以前是《编译原理》的一部分，20级独立出来作为一门必修课程。
+
+相比《算法设计与分析》、《数理逻辑》和离散数学一系列课程，《形式语言与自动机》似乎是计科培养计划里难度最大的理论计算机科学（Theoretical Computer Science）课程。希望以后有更多的TCS课程能以选修的形式出现在培养计划里。
+
+如果有同学对TCS感兴趣（如果有TmT），可以B站搜一搜北京大学的《理论计算机科学基础》课程，这门课程前半部分有更细致的自动机理论，后半部分利用这些知识介绍了可计算性理论和计算复杂性理论，欢迎和笔者交流相关细节~
