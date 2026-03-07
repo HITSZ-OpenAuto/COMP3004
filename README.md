@@ -1,4 +1,6 @@
 # COMP3004 - 形式语言与自动机
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
@@ -15,6 +17,7 @@
 ## 授课教师
 
 - 郑宜峰
+  <!-- TOML-ITEM: id="review-郑宜峰-1" -->
   - 挺好的老师，交流时感觉很亲切。
 - 汤步洲
 - 陈斌
@@ -22,10 +25,16 @@
 - 卢瑶
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [理论计算机科学基础（北京大学）](https://search.bilibili.com/all?keyword=理论计算机科学基础+北京大学)：B站搜索。这门课程前半部分有更细致的自动机理论，后半部分利用这些知识介绍了可计算性理论和计算复杂性理论。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 考试都是基础题型，参考exam中的试卷。
 
@@ -36,6 +45,9 @@
 （20级得分排名参考：92分 rk1，82分 rk60/500）
 
 ## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 作业有些班级是英文的，有些班级是中文的。
 
