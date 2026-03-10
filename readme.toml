@@ -50,6 +50,9 @@ content = """
 （20级得分排名参考：92分 rk1，82分 rk60/500）
 """
 
+[[sections.items]]
+content = "测试内容"
+author = {name = "离谱", link = "example.com", date = "2026-03"}
 [[sections]]
 title = "关于实验"
 
