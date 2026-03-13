@@ -1,7 +1,6 @@
 course_name = "形式语言与自动机"
-repo_type = "normal"
 course_code = "COMP3004"
-
+repo_type = "normal"
 description = """
 “课程是很难的课程，但是过还是比较容易的。”
 
@@ -9,26 +8,28 @@ description = """
 
 相比《算法设计与分析》、《数理逻辑》和离散数学一系列课程，《形式语言与自动机》似乎是计科培养计划里难度最大的理论计算机科学（Theoretical Computer Science）课程。希望以后有更多的TCS课程能以选修的形式出现在培养计划里。
 
-如果有同学对TCS感兴趣（如果有TmT），可以B站搜一搜北京大学的《理论计算机科学基础》课程，这门课程前半部分有更细致的自动机理论，后半部分利用这些知识介绍了可计算性理论和计算复杂性理论，欢迎和笔者交流相关细节~"""
+如果有同学对TCS感兴趣（如果有TmT），可以B站搜一搜北京大学的《理论计算机科学基础》课程，这门课程前半部分有更细致的自动机理论，后半部分利用这些知识介绍了可计算性理论和计算复杂性理论，欢迎和笔者交流相关细节~
+"""
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "郑宜峰"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "挺好的老师，交流时感觉很亲切。"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "汤步洲"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "陈斌"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "刘学博"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "卢瑶"
-
 
 [[sections]]
 title = "在线资源"
