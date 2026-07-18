@@ -1,3 +1,0 @@
-category: 限选
-semester: 第二学年春季
-name: 形式语言与自动机
