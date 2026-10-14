@@ -1,0 +1,317 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814794,
+    "hash": "213ed8203d2fb081e0d56d18c291ea6fcc2c6457"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754203807,
+    "hash": "805f6c090d05c95bcc7ef14e8ec2e9bb669b57e4"
+  },
+  "README.md": {
+    "size": 3357,
+    "time": 1791961533,
+    "hash": "173326858fbb669cc264bde613e814681cf91f4d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754203807,
+    "hash": "805f6c090d05c95bcc7ef14e8ec2e9bb669b57e4"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754203807,
+    "hash": "805f6c090d05c95bcc7ef14e8ec2e9bb669b57e4"
+  },
+  "exams/2023 形式语言与自动机 期末试题.pdf": {
+    "size": 142542,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "exams/2023 形式语言与自动机 期末试题参考答案.pdf": {
+    "size": 5902687,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "exams/形式语言与自动机-2022春-期末-深圳-试卷参考答案.pdf": {
+    "size": 9366159,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "exams/形式语言与自动机-2022春-期末-深圳-试卷回忆版.pdf": {
+    "size": 315710,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754203807,
+    "hash": "805f6c090d05c95bcc7ef14e8ec2e9bb669b57e4"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754203807,
+    "hash": "805f6c090d05c95bcc7ef14e8ec2e9bb669b57e4"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲.md": {
+    "size": 953,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/1.课程基础.md": {
+    "size": 3554,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/2.有穷状态自动机.md": {
+    "size": 10226,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/3.正则表达式和正则语言.md": {
+    "size": 13023,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/4.上下文无关文法和下推自动机.md": {
+    "size": 15174,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/5.上下文无关语言的性质.md": {
+    "size": 4878,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/1683768956971-20230511093621-nbu0p01.png": {
+    "size": 56173,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/1683770142318-20230511095553-eutkib8.png": {
+    "size": 111130,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/1683771570544-20230511101956-08kb9ou.png": {
+    "size": 66619,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/1683771578139-20230511102013-6zuse35.png": {
+    "size": 90574,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508105852-pupprz7.png": {
+    "size": 88765,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508110212-rq6bqxh.png": {
+    "size": 6641,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508110927-zqfqyig.png": {
+    "size": 20206,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508111056-7walyp5.png": {
+    "size": 9474,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508113107-qe5z6nm.png": {
+    "size": 14904,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508113113-k87f9zh.png": {
+    "size": 11735,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508114621-1pk3wlk.png": {
+    "size": 8763,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508114629-dqup62m.png": {
+    "size": 10438,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508145550-wsjv139.png": {
+    "size": 38313,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508150240-8xorauo.png": {
+    "size": 10415,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508150250-malw757.png": {
+    "size": 15272,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508150511-uiwzfuq.png": {
+    "size": 13257,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508151447-r1qogy6.png": {
+    "size": 18260,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508151452-47knh27.png": {
+    "size": 39630,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508152823-a3epln8.png": {
+    "size": 6133,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508152827-p4bt0xe.png": {
+    "size": 25914,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230508152833-vhbrvh3.png": {
+    "size": 66362,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230509091908-z67ydyx.png": {
+    "size": 42753,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230509094903-9it8tmp.png": {
+    "size": 42187,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230509094958-6lht198.png": {
+    "size": 25157,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230509095203-irbdhca.png": {
+    "size": 37721,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230509100431-rbrx3fs.png": {
+    "size": 14578,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230509100500-r116wv4.png": {
+    "size": 17103,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230509100531-7lcq1vo.png": {
+    "size": 16165,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230509100614-ldz5dqy.png": {
+    "size": 45414,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230510150322-pbx8ggz.png": {
+    "size": 9803,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230510171850-wn5oeqj.png": {
+    "size": 196432,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230510181716-gz7f6qd.png": {
+    "size": 72682,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230510181732-dq895ru.png": {
+    "size": 37749,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230510224947-l9wegnf.png": {
+    "size": 36080,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230510224952-iz1fgzf.png": {
+    "size": 35637,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230510230141-kezl3fi.png": {
+    "size": 22871,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/MD版/复习提纲/assets/image-20230511101227-j6yxpq1.png": {
+    "size": 69554,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/PDF版/复习提纲.pdf": {
+    "size": 93797,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "notes/2023_MaxFan/复习提纲/PDF版/正文/1.课程基础.pdf": {
+    "size": 254291,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "notes/2023_MaxFan/复习提纲/PDF版/正文/2.有穷状态自动机.pdf": {
+    "size": 608556,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "notes/2023_MaxFan/复习提纲/PDF版/正文/3.正则表达式和正则语言.pdf": {
+    "size": 700483,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "notes/2023_MaxFan/复习提纲/PDF版/正文/4.上下文无关文法和下推自动机.pdf": {
+    "size": 1065040,
+    "time": 1755971045,
+    "hash": "3aa2ef36392de8655192c556be9e7e1473e219b5"
+  },
+  "notes/2023_MaxFan/复习提纲/PDF版/正文/5.上下文无关语言的性质.pdf": {
+    "size": 448393,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "notes/2023_MaxFan/部分题型总结.pdf": {
+    "size": 1116584,
+    "time": 1755970960,
+    "hash": "f30ebd10a3f92ff4df430baeba42f7cea0682df2"
+  },
+  "readme.toml": {
+    "size": 3360,
+    "time": 1784775346,
+    "hash": "425f9d28196a4b0147dca4e6268eb84a93d22669"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754203807,
+    "hash": "805f6c090d05c95bcc7ef14e8ec2e9bb669b57e4"
+  }
+}
